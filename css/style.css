@@ -256,9 +256,7 @@ section {
   gap: 20px;
 }
 
-.footer-col2 .contact-address,
-.contact-phone,
-.contact-email {
+.footer-col2 .contact {
   display: flex;
   gap: 20px;
 }
